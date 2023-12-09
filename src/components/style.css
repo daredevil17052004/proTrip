@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+}
+
+form{
+    margin-left:650px;
+    background-color: rgb(211, 239, 155);
+    width: 400px;
+    border-radius: 10px;
+}
+
+.form{
+    padding: 5px;
+    text-align: left;
+    padding-left: 50px;
+}
+h1{
+    padding-top: 20px;
+}
+
+.message{
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    margin-left: 730px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(210, 220, 191);
+}
+
+.field{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(171, 80, 80);
+    color: wheat;
+    font-weight: 200;
+}
+
+p{
+    color: red;
+}
+
+input{
+    height: 30px;
+    border-radius: 5px;
+    border: transparent;
+    width: 300px;
+    padding-left: 10px;
+}
